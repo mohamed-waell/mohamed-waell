@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi there 👋 I'm Mohamed Wael
 
-<!--
-**mohamed-waell/mohamed-waell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Student at Al-Arish University
+💻 Aspiring Software Developer
+🌱 Currently learning Python & Git & GitHub
+📍 From El Arish, North Sinai, Egypt
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 About Me
+I'm passionate about technology and coding. I'm at the beginning of my journey to become a professional developer.
+
+#### 🛠️ Tech Stack
+- Python
+- Git & GitHub
+- HTML / CSS (learning)
+
+#### 📫 Connect with me
+- GitHub: @mohamed-waell
+
+---
+⭐️ From mohamed-waell
